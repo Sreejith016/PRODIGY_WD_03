@@ -59,4 +59,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Feel free to fork the project and make any improvements. Happy coding!
 ```
 
-Replace the placeholder URLs and paths with your actual project details and demo links. This README should help users understand and navigate your Tic Tac Toe application effectively.
